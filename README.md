@@ -1,6 +1,6 @@
 # INSTAL·LACIÓ SGBD MySQL Percona
 ***
-!(https://i.imgur.com/YDV2Aev.png)
+![a](https://i.imgur.com/YDV2Aev.png)
 
 
 ### Webgrafia
