@@ -1,6 +1,6 @@
 # INSTAL·LACIÓ SGBD MySQL Percona
 ***
-Primer de tot encenem la màquina **CentOS** i ens accedim amb l’usuari i contrasenyes del root.
+Primer de tot encenem la màquina **CentOS** i ens accedim amb l’usuari i contrasenyes del root.  
 Instal·lem el *repositori de yum del Percona* amb aquesta comanda:  
 ![Comanda YUM](https://i.imgur.com/YDV2Aev.png)
 
