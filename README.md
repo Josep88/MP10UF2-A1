@@ -28,6 +28,7 @@ I un cop s’ha descarregat indiquem que es correcte per instal·lar-lo:
 I en poc temps ja s’haurà instal·lat:  
 ![9](https://i.imgur.com/dhw9oe2.png)
 
+***
 ### Webgrafia
 ***
 [Installing Percona Server on Red Hat Enterprise Linux and CentOS](https://www.percona.com/doc/percona-server/LATEST/installation/yum_repo.html)
