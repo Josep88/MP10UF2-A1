@@ -1,7 +1,7 @@
 # INSTAL·LACIÓ SGBD MySQL Percona
 ***
-Primer de tot encenem la màquina CentOS i ens accedim amb l’usuari i contrasenyes del root.
-Instal·lem el repositori de yum del Percona amb aquesta comanda:  
+Primer de tot encenem la màquina **CentOS** i ens accedim amb l’usuari i contrasenyes del root.
+Instal·lem el *repositori de yum del Percona* amb aquesta comanda:  
 ![Comanda YUM](https://i.imgur.com/YDV2Aev.png)
 
 Indiquem que es correcte:  
@@ -29,6 +29,6 @@ I en poc temps ja s’haurà instal·lat:
 ![9](https://i.imgur.com/dhw9oe2.png)
 
 ***
-### Webgrafia
+## Webgrafia
 ***
 [Installing Percona Server on Red Hat Enterprise Linux and CentOS](https://www.percona.com/doc/percona-server/LATEST/installation/yum_repo.html)
