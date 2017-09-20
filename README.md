@@ -2,7 +2,7 @@
 ***
 Primer de tot encenem la màquina **CentOS** i ens accedim amb l’usuari i contrasenyes del root.  
 Instal·lem el *repositori de yum del Percona* amb aquesta comanda:  
-![Comanda YUM](https://i.imgur.com/YDV2Aev.png)
+> ![Comanda YUM](https://i.imgur.com/YDV2Aev.png)
 
 Indiquem que es correcte:  
 ![Repositoris Percona](https://i.imgur.com/VMkZppq.png)
