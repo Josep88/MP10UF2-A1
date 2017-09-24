@@ -8,3 +8,6 @@ Verificar status: service mysql status
 
 Apagar: service mysql stop  
 > ![6](https://i.imgur.com/pKu3ejY.png)  
+
+***
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
