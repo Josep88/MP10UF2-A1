@@ -29,4 +29,4 @@ I en poc temps ja s’haurà instal·lat:
 > ![Instal·lació finalitzada](https://i.imgur.com/dhw9oe2.png)  
 
 ***
-[Torna enrera](https://github.com/Josep88/MP10UF2-A1)
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
