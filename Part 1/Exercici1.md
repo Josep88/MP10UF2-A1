@@ -11,4 +11,4 @@ Un cop ha acabat ja podrem entrar amb la nova contrasenya al mysql:
 > ![3](https://i.imgur.com/PM5Obyd.png)  
 
 ***
-[Torna enrera](https://github.com/Josep88/MP10UF2-A1)
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
