@@ -11,4 +11,5 @@ Ens conectem al usuari ‘asix’ i amb el programa mysql_config_editor creem l�
 
 Com es veu a la imatge, despres de fer la comanda de mysql_config_editor s'ha entrat al MySQL amb tan sols la comanda mysql.
 
-
+***
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
