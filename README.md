@@ -16,5 +16,5 @@
 # PART 2
 &nbsp;&nbsp;&nbsp;[INSTAL·LACIÓ SGBD MongoDB](https://github.com/Josep88/MP10UF2-A1/blob/master/Part%202/InstalacioMONGODB.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Com connectar-se a la BD](https://github.com/Josep88/MP10UF2-A1/blob/master/Part%202/connexio.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comprovació](https://github.com/Josep88/MP10UF2-A1/blob/master/Part%202/comprovacio.md) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comprovació](https://github.com/Josep88/MP10UF2-A1/blob/master/Part%202/comprovacio.md)  
 &nbsp;&nbsp;&nbsp;[Webgrafia](https://github.com/Josep88/MP10UF2-A1/blob/master/Part%202/Webgrafia2.md)
