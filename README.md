@@ -1,3 +1,10 @@
-Aixo sera un index
+![logo](https://www.percona.com/sites/default/files/ps-logo.png)  
 
-# INSTAL·LACIÓ SGBD MySQL Percona
+[INSTAL·LACIÓ SGBD MySQL Percona](https://github.com/Josep88/asix2bbdd/blob/master/InstalacioPERCONA.md)  
+[Exercici 1](https://github.com/Josep88/asix2bbdd/blob/master/Exercici1.md)  
+[Exercici 2](https://github.com/Josep88/asix2bbdd/blob/master/Exercici2.md)  
+[Exercici 3](https://github.com/Josep88/asix2bbdd/blob/master/Exercici3.md)  
+[Exercici 4](https://github.com/Josep88/asix2bbdd/blob/master/Exercici4.md)  
+[Exercici 5](https://github.com/Josep88/asix2bbdd/blob/master/Exercici5.md)  
+[Exercici 6](https://github.com/Josep88/asix2bbdd/blob/master/Exercici6.md)  
+[Exercici 7](https://github.com/Josep88/asix2bbdd/blob/master/Exercici7.md)  
