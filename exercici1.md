@@ -1,5 +1,4 @@
-##1. Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza 
-##   aquesta tasca? Realitza una securització de la instal·lació indicant que la contrasenya de root sigui patata.
+## 1. Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació indicant que la contrasenya de root sigui patata.
 
 El programa es mysql_secure_installation.
 Ens pregunta la nova contrasenya del root (aquesta ha de complir un mínim de requisits):
