@@ -27,3 +27,5 @@ I un cop s’ha descarregat indiquem que es correcte per instal·lar-lo:
 
 I en poc temps ja s’haurà instal·lat:  
 > ![Instal·lació finalitzada](https://i.imgur.com/dhw9oe2.png)
+***
+[Torna enrera](https://github.com/Josep88/MP10UF2-A1)
