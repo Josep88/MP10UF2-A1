@@ -4,3 +4,6 @@ Afegint a l’arxiu /etc/my.cnf aquesta línia:
 &nbsp;&nbsp;&nbsp;&nbsp;port = 33306  
 El guardem i reiniciem el servei amb la comanda:  
 &nbsp;&nbsp;&nbsp;&nbsp;service mysqld restart   
+
+***
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
