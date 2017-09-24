@@ -5,3 +5,6 @@ Amb l'usuari root:
 
 I amb l'usuari asix:
 >![72](https://i.imgur.com/L7I2aee.png)  
+
+***
+[Torna enrere](https://github.com/Josep88/MP10UF2-A1)
