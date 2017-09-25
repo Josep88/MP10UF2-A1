@@ -1,14 +1,10 @@
 ## 1. Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació indicant que la contrasenya de root sigui patata.
 
 El programa es mysql_secure_installation.  
-El primer que hi ha que fer per poder possar la contrasenya 'patata' es modificar la politica de seguretat de les contrasenyes, per aixó em de modificar la configuració del MySQL.
-Primer entrem al MySQL amb privilegis de root i confirmem la politica:
-> ![1](https://image.ibb.co/eOTNJk/Captura.png)  
+El primer que hi ha que fer per poder possar la contrasenya 'patata' es modificar la politica de seguretat de les contrasenyes, per aixó em de modificar el fitxer de configuració _my.cnf_ i afegir les linies d'abaix de _[mysqld]_:
+> ![1](https://image.ibb.co/gFWgUQ/Captura.png)  
 
-I ara modifiquem el nivell _MEDIUM_ a _LOW_, cambien la longitud de la contrasenya a 6 i guardem la configuració:  
-> ![1](https://image.ibb.co/cQekpQ/Captura.png)  
-
-Ara podem executar la comanda i ens pregunta la nova contrasenya del root (aquesta ha de complir un mínim de requisits):  
+Ara podem executar la comanda i ens pregunta la nova contrasenya del root:  
 > ![1](https://i.imgur.com/POrffOl.png)  
   
 Ens pregunta per fer altres configuracions que no volem modificar a aquet exercici:  
