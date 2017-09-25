@@ -5,8 +5,8 @@ El primer que hi ha que fer per poder possar la contrasenya 'patata' es modifica
 Primer entrem al MySQL amb privilegis de root i confirmem la politica:
 > ![1](https://image.ibb.co/eOTNJk/Captura.png)  
 
-I ara modifiquem el nivell _MEDIUM_ a _LOW_:  
-> ![1](https://image.ibb.co/mU1EW5/Captura.png)  
+I ara modifiquem el nivell _MEDIUM_ a _LOW_, cambien la longitud de la contrasenya a 6 i guardem la configuració:  
+> ![1](https://image.ibb.co/cQekpQ/Captura.png)  
 
 Ara podem executar la comanda i ens pregunta la nova contrasenya del root (aquesta ha de complir un mínim de requisits):  
 > ![1](https://i.imgur.com/POrffOl.png)  
