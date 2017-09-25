@@ -4,7 +4,7 @@ Cream l’usuari i contrasenya al sistema operatiu amb l'usuari 'root':
 >![5](https://i.imgur.com/RsfSVbK.png)  
 
 I al MySQL també els creem amb l'usuari 'root':  
->![52](https://i.imgur.com/eFWFy5K.png)  
+>![52](https://image.ibb.co/gxWbw5/Captura.png)  
 
 Ens conectem al usuari ‘asix’ i amb el programa mysql_config_editor creem l’entrada:  
 >![53](https://i.imgur.com/M0T2TpA.png)  
