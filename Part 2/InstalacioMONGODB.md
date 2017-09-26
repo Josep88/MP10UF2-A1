@@ -15,11 +15,13 @@ Un cop ha acabat la instal·lació hi ha que modificar el fitxer _/etc/selinux/c
 
 Un cop fet hi ha que reiniciar el servidor per a que surti efecte la modificació.
 Un cop reiniciat, podem utilitzar les comandes:
->&nbsp;&nbsp;Iniciar el servei del MongoDB  
+&nbsp;&nbsp;Iniciar el servei del MongoDB  
 >&nbsp;&nbsp;&nbsp;&nbsp;service mongod start  
   
->&nbsp;&nbsp;Comprovar l'estat del servei  
+&nbsp;&nbsp;Comprovar l'estat del servei  
 >&nbsp;&nbsp;&nbsp;&nbsp;systemctl status mongod  
 
+&nbsp;&nbsp;Parar el servei del MongoDB  
+>&nbsp;&nbsp;&nbsp;&nbsp;service mongod stop  
 ***
 [Torna enrere](https://github.com/Josep88/MP10UF2-A1)
